@@ -1,4 +1,5 @@
 # vophucminhtam.github.io
+Xin chào tất cả mọi người. Mình tên là Võ Phúc Minh Tâm
 🇻🇳 Tiếng Việt:
 Mình là sinh viên ngành Khoa học Máy tính (Computer Science) tại Trường Đại học Công nghệ Thông tin – UIT, Đại học Quốc gia TP. Hồ Chí Minh.
 Mình có niềm đam mê đặc biệt với Trí tuệ nhân tạo (AI) và những công nghệ tiên phong đang định hình tương lai, như robotics, học máy (Machine Learning), học sâu (Deep Learning) và AI tạo sinh (Generative AI).
